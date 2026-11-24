@@ -1,8 +1,8 @@
 # One Line of Earned Pride
 
 [![Competition](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557)
-[![Rank](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/tomselliott/one-line-of-earned-pride/rank.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557)
-[![Reward](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/tomselliott/one-line-of-earned-pride/reward.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557)
+[![Rank](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/jehan771/one-line-of-earned-pride/rank.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557)
+[![Reward](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/jehan771/one-line-of-earned-pride/reward.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557)
 
 Entry for the make.fun bounty [One Line of Earned Pride](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557) — one line of text, 1 to 240 characters, a quiet, earned moment of pride for someone in a scene.
 
